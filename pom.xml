@@ -10,5 +10,6 @@
   <!-- project > modules -->
   <modules>
     <module>13-SmoothMoves</module>
+    <module>14-TimingFramework-Fundamentals</module>
   </modules>
 </project>
