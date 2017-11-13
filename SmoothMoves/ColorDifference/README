@@ -1,0 +1,6 @@
+Use:
+
+  mvn package # compile and generates JAR file
+  mvn exec:java # execute the main class
+
+to compile and run the example
