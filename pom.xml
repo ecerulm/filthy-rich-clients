@@ -11,5 +11,7 @@
   <modules>
     <module>13-SmoothMoves</module>
     <module>14-TimingFramework-Fundamentals</module>
+    <module>17-DynamicEffects</module>
+    <module>18-AnimatedTransitions</module>
   </modules>
 </project>
