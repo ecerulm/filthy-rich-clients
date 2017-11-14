@@ -161,7 +161,7 @@ public class SmoothMoves extends JComponent implements ActionListener, KeyListen
         g.setColor(Color.WHITE);
         g.fillRect(0, 0, getWidth(), getHeight());
         
-        // Draw the fading image
+        // Draw the fading image, left side
         Graphics2D gFade = (Graphics2D)g.create();
         gFade.setComposite(AlphaComposite.SrcOver.derive(opacity));
         gFade.drawImage(image, fadeX, fadeY, null);
