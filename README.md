@@ -5,9 +5,9 @@ examples from https://github.com/romainguy/filthy-rich-clients
 
 Go to the corresponding code sample directory and run:
 
-  mvn initialize # This install local JARs like (TimingFramework.jar and AnimatedTransitions.jar) into the local maven repo
-  mvn package # build the sample
-  mvn exec:java # run the sample main class
+    mvn initialize # This install local JARs like (TimingFramework.jar and AnimatedTransitions.jar) into the local maven repo
+    mvn package # build the sample
+    mvn exec:java # run the sample main class
 
 This repository hosts all the code examples from the
 book called Filthy Rich Clients, written by Chet Haase
